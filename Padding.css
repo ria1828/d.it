@@ -1,0 +1,9 @@
+.ria{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(12, 101, 71);
+    border: 5px solid rgb(247, 28, 28);
+    color: white;
+    padding: 20px 35px 40px 50px;
+    
+}

@@ -1,0 +1,30 @@
+ ul.ul1{
+    list-style-type:lower-alpha;
+}
+ ul.ul2{
+    list-style-type: upper-alpha;
+}
+ ul.ul3
+{
+    list-style-type: lower-roman;
+}
+ ul.ul4{
+    list-style: upper-roman;
+}
+ul#ul1{
+    list-style-type: decimal;
+}
+ul#ul2{
+    list-style-type: decimal-leading-zero;
+}
+
+ul.a{
+    list-style-position: inside;
+}
+ul.b{
+     list-style-position: outside; /* default outside */
+}
+ul.c{
+    list-style-image: url('https://media0.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy_s.gif');
+    
+}

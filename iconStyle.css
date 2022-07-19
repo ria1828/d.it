@@ -1,0 +1,105 @@
+h1{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vw;
+    text-align: center;
+    color: red;
+    background-color: black;
+    padding: 5px;
+}
+table{
+    background-color:gainsboro;
+}
+.fa-brands{
+    font-size: 50px;
+    color: rgb(249, 127, 4);
+}
+#fa-java{
+    font-size: 70px;
+    color: orangered;
+}
+#fa-angular{
+    font-size: 50px;
+    color: rgb(152, 7, 7);
+}
+#fa-robot{
+    font-size: 50px;
+    color: rgb(7, 152, 29);
+}
+#fa-js{
+    font-size: 50px;
+    color: rgb(15, 7, 250);
+}
+#fa-php{
+    font-size: 50px;
+    color: rgb(43, 103, 243);
+}
+#fa-js{
+    font-size: 50px;
+    color: rgb(6, 27, 160);
+}
+#fa-css3-alt{
+    font-size: 50px;
+    color: rgb(11, 69, 184);
+}
+#fa-python{
+    font-size: 50px;
+    color: rgb(132, 184, 11);
+}
+#fa-node-js{
+    font-size: 50px;
+    color:orangered;
+}
+#fa{
+    font-size: 50px;
+    color: rgb(158, 9, 181);
+}
+#c{
+    font-size: 50px;
+    color: rgb(61, 17, 239);
+}
+#fa2{
+    font-size: 50px;
+    color: rgb(158, 9, 181);
+}
+#fa{
+    font-size: 50px;
+    color: rgb(9, 121, 181);
+}
+#fa3{
+    font-size: 50px;
+    color:goldenrod;
+}
+
+#fb{
+    font-size: 50px;
+    color: rgb(9, 45, 123);
+}
+#messenger{
+    font-size: 50px;
+    color: rgb(49, 107, 254);
+}
+#code{
+    font-size: 50px;
+    color: rgb(1, 4, 12);
+}
+#insta{
+    font-size: 50px;
+    color: rgb(249, 34, 30);
+}
+#hashtag{
+    font-size: 50px;
+    color: rgb(109, 123, 6);
+}
+#whatsapp{
+    font-size: 50px;
+    color: rgb(44, 247, 51);
+}
+#plane{
+    font-size: 50px;
+    color: rgb(9, 115, 181);
+}
+#fa4{
+    font-size: 50px;
+    color: rgb(132, 181, 9);
+}

@@ -1,0 +1,9 @@
+.first,.second,.third{
+    background-color: orange;
+}
+div{
+    background-color: green !important;
+}
+.second{
+    background-color: yellow !important;
+}
